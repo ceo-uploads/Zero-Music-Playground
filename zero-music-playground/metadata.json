@@ -1,0 +1,7 @@
+{
+  "name": "Zero Music Playground",
+  "description": "A high-performance, keyboard-driven synthesizer playground featuring polyphonic oscillators, real-time filtering, and a sleek dark-themed interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
